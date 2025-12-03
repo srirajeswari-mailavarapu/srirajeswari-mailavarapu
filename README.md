@@ -1,15 +1,11 @@
 ### Hi there, I'm @srirajeswari-mailavarapu!
 
-I'm a Biotechnology student exploring software development.  
-Currently learning Java and building small projects to improve my problem-solving skills.
-
-## Interests  
-- Java programming  
-- Bioinformatics & biotech innovations  
-- Beginner-friendly tech projects  
-
-## Learning  
-- Java (OOPs, basic programs)  
+- **I'm interested in**: - biotech innovations like genetic engineering and sustainable agriculture. I'm also learning coding to enhance my problem-solving skills and explore tech-driven solutions in my field.
+- **I'm currently learning**: Java programming  
+- **Looking to collaborate on**: Java-based projects, bioinformatics tools, and biotech innovations  
+- **How to reach me**:  
+  - Email: mailavarapusrirajeswari@gmail.com  
+  - LinkedIn:www.linkedin.com/in/sri-rajeswari-mailavarapu-150833325 
 
 ## Contact  
 - Email: mailavarapusrirajeswari@gmail.com  
